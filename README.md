@@ -38,7 +38,7 @@
 ## ANS:
 
 ### **Scope :**
-- The goal of this project is to develop a mobile app that is tailored to the requirements of people with hearing loss.
+- The goal of this project is to develop a mobile app and web app that is tailored to the requirements of people with hearing loss.
 
 ### **Features :**
 - artificial intelligence is used to recognise sound events.
