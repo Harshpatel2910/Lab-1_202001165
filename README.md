@@ -8,7 +8,7 @@
 ### Ans:
 
 ### **Functional Conditions:**
-1> Members have the option to borrow and return books from their desk or chamber.\\
+1> Members have the option to borrow and return books from their desk or chamber.<br />
 2> If no further reservations have been made, the ability to extend the borrowing date.\\
 3> The employees of the library can handle book transactions easily.\\
 4> A librarian's ability to add new books and remove old books from the system.\\
