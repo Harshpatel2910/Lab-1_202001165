@@ -37,4 +37,17 @@
 ## Q.2. Identify scope, features and non-functional aspects of the following problem.
 ## ANS:
 
+### **Scope :**
+- The goal of this project is to develop a mobile app that is tailored to the requirements of people with hearing loss.
 
+### **Features :**
+- artificial intelligence is used to recognise sound events.
+- Alerts in real time for significant sound events, such as automobile horns and newborns.
+- sound events are logged for the user.
+- to guarantee low-latency real-time performance that is optimised for Android.
+
+### **Non-Functional Conditions:**
+- **Performance**: For real-time use, the programme should have quick reaction and processing speeds.
+- **Usability**: People with hearing loss should be able to use the app without difficulty.
+- **Accessibility**: The app should adhere to accessibility guidelines and be usable by persons with impairments.
+- **Security**: To safeguard user privacy and the preservation of sound event, the app should have robust security mechanisms in place.
