@@ -7,11 +7,11 @@
 ## Q.1. Identify FRs and NFRs:
 ## Ans:
 
-## ** Functional Conditions: **
+ **Functional Conditions:**
 
 
 
-## ** Non-Functional Conditions: **
+## **Non-Functional Conditions:**
 
 1> Plain text should not be used to store confidential information.
 2> To minimise security threats, the application should have the necessary security safeguards in place.
