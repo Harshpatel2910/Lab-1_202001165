@@ -26,7 +26,6 @@
 
 1> Plain text should not be used to store confidential information.<br />
 2> To minimise security threats, the application should have the necessary security safeguards in place.<br />
-
 3> The system needs to be scalable to match the institute's expanding growth.<br />
 4> For members and library employees to have smooth access, the system should have high availability.<br />
 5> In order to provide a pleasant user experience, the system must operate well and respond quickly.<br />
